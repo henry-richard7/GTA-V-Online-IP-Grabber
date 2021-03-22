@@ -1,4 +1,4 @@
-# GTA-V-Online-IP-Grabber
+# GTA-V-Online-IP-Grabber [Deprecated]
 This Python program grabs IP address during online GTA V online session
 
 # Features
