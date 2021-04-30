@@ -13,6 +13,14 @@ This Python program grabs IP address during online GTA V online session
 # Needed Driver
 * Npcap [DOWNLOAD](https://nmap.org/npcap/)
 
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+# My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 ## Donations
 If you like my projects then consider making a small donation by clicking below button ^_^
 <br/>
